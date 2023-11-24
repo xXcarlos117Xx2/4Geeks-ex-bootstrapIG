@@ -1,0 +1,23 @@
+.post-img {
+    max-width: 100%;
+}
+
+.post-avatar {
+    max-width: 40px;
+    max-height: 40px;
+    display: block;
+}
+
+.container {
+    max-width: 550px;
+    max-height: 1000px;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.container p {
+    max-height: 5em;
+    margin: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
